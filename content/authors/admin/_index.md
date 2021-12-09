@@ -1,8 +1,9 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+title: Marco Campos
+role: Graduate Student at the University of Houston
+avatar_filename: profile.jpeg
+bio: My research interests include computational mathematics, particularly
+  topological data analysis, computational homology and sensor networks.
 interests:
   - Topological Data Analysis
   - Computational Topology
@@ -21,26 +22,20 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/marco-campos24
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Houston
+    url: https://www.uh.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: PhD in Computational Mathematics
+      institution: University of Houston
+      year: 2026
+    - course: BSc in Mathematics
+      institution: University of Texas
+      year: 2015
+email: marco.campos24@utexas.edu
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am currently a graduate student at the University of Houston studying computation mathematics. I was previously a High School Teacher in HISD and taught AP Calculus as well as OnRamps Pre-Calculus for three years. Outside of mathematics, I enjoy rock climbing and consuming a science fiction.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
