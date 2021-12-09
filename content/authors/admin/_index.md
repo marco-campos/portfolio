@@ -31,7 +31,7 @@ education:
       year: 2026
     - course: BSc in Mathematics
       institution: University of Texas
-      year: 2015
+      year: 2018
 email: marco.campos24@utexas.edu
 superuser: true
 highlight_name: true
