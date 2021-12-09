@@ -26,7 +26,7 @@ organizations:
     url: https://www.uh.edu/
 education:
   courses:
-    - course: PhD in Computational Mathematics
+    - course: (Currently Pursuing) PhD in Computational Mathematics
       institution: University of Houston
       year: 2026
     - course: BSc in Mathematics
