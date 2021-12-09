@@ -1,7 +1,7 @@
 ---
 title: Marco Campos
 role: Graduate Student at the University of Houston
-avatar_filename: profile.jpeg
+avatar_filename: avatar.jpeg
 bio: My research interests include computational mathematics, particularly
   topological data analysis, computational homology and sensor networks.
 interests:
